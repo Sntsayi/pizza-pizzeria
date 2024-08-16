@@ -9,3 +9,4 @@
         we do this in three step : 1)first we create the loader function in that your route component ,2)second we provide the loader in our routes , 3)third,we provide the data to the page by useLoaderData() custoom hook
          with this loader , The React-Router will actually start fetching the data at the same time as it starts rendering the correct route...and this is som powerful and good thing ...and this is better than the use useEffect hook because in useEffect the components first rendered and then after components was already  rendered is when then  would start the fetch data.
 #### I used redux-tooklit for UI state managment 
+#### I used tailwindcss to styled all of the component 
