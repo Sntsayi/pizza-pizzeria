@@ -1,4 +1,5 @@
 # React-Vite : pizza-pizzeria
+### The idea of this project for Jonas Schmedtmann
 
 ## features:
 #### hooks: useState , useEffect, this hooks provided by new react-router: useFetcher , useActionData , useRouteError, useNavigation
